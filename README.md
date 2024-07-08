@@ -1,1 +1,1 @@
-this is a python script which demonstrates how to encrypt and decrypt a file using "cryptography" module in python specific file 
+These are the python programs which demonstrates how to encrypt and decrypt files using "cryptography" module in python. First, you have to create the files you want to encrypt and then if you run the decrypt program, it will automatically decrypts the files you have encrypted before
